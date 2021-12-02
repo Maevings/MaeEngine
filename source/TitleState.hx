@@ -463,12 +463,12 @@ class TitleState extends MusicBeatState
 			switch (sickBeats)
 			{
 				case 1:
-					createCoolText(['Psych Engine by'], 15);
+					createCoolText(['MaeEngine Credits & Honorable Mentions'], 15);
 				// credTextShit.visible = true;
 				case 3:
-					addMoreText('Shadow Mario', 15);
-					addMoreText('RiverOaken', 15);
-					addMoreText('bb-panzu', 15);
+					addMoreText('maevings', 15);
+					addMoreText('sugardarkside', 15);
+					addMoreText('joao arthur', 15);
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
 				case 4:
@@ -477,9 +477,9 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = 'In association \nwith';
 				// credTextShit.screenCenter();
 				case 5:
-					createCoolText(['This is a mod to'], -60);
+					createCoolText(['filler text'], -60);
 				case 7:
-					addMoreText('This game right below lol', -60);
+					addMoreText('here lol', -60);
 					logoSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
 				case 8:
@@ -501,13 +501,13 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
 				case 13:
-					addMoreText('FNF');
+					addMoreText('stupid');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Maevings');
+					addMoreText('psych engine');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('Edition'); // credTextShit.text += '\nFunkin';
+					addMoreText('edit'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();
