@@ -64,7 +64,7 @@ class CreditsState extends MusicBeatState
 		
 		#end
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-			['MaeEngine Developer']
+			['MaeEngine Developer'],
                         ['Maevings'],	        	'maevings',		'guy who literally did everything for mae engine lol',		'https://twitter.com/Maevings',                 'FFFF00'],
 		        [''],
 			['Psych Engine Team'],
